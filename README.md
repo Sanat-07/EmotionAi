@@ -274,11 +274,12 @@ This project is licensed under the MIT License.
 - 📷 Instagram: [@bogenbaevjr](https://instagram.com/bogenbaevjr)
 - ✈️ Telegram: [@jrdsta](https://t.me/jrdsta)
 - 📞 Phone: +7 776 270 0967
+-    Gmail: bogenbaevsanat07@gmail.com
 
 ## 📧 Support
 
 For issues or questions, please contact the creator via the links above.
 
----
 
-**Made with ❤️ and AI**
+
+
